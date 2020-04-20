@@ -8,3 +8,5 @@ Followed this repo: https://github.com/madrugado/Attention-Based-Aspect-Extracti
 
 ### Stanford CoreNLP
  https://stanfordnlp.github.io/CoreNLP/download.html version 3.9.2
+
+### Project paper link

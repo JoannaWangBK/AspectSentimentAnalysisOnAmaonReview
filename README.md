@@ -6,6 +6,7 @@ Input data to the aspect model and sentiment model is too large to check in on g
 
 ### Aspect model code
 Based this repo: https://github.com/madrugado/Attention-Based-Aspect-Extraction
+Our changes is on the fork: https://github.com/JoannaWangBK/Attention-Based-Aspect-Extraction/tree/W266Project
 
 ### Stanford CoreNLP
 Based on https://stanfordnlp.github.io/CoreNLP/download.html version 3.9.2

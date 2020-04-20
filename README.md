@@ -1,4 +1,4 @@
-# AspectSentimentAnalysisOnAmaonReview
+# Unsupervised Aspect Classification and Sentiment Analysis for Amazon Product Reviews
 ## W266 Final Project
 ### Data
 We used https://nijianmo.github.io/amazon/index.html Electornic data. Please follow the link to download.

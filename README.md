@@ -16,3 +16,4 @@ Based this repo: https://github.com/madrugado/Attention-Based-Aspect-Extraction
 Based on https://stanfordnlp.github.io/CoreNLP/download.html version 3.9.2
 
 #### Project Paper 
+https://github.com/JoannaWangBK/AspectSentimentAnalysisOnAmaonReview/blob/master/Unsupervised_Aspect_Classification_and_Sentiment_Analysis_for_Amazon_Reviews.pdf
